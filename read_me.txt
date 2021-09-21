@@ -1,0 +1,3 @@
+https://www.codecademy.com/paths/data-analyst/tracks/dacp-data-wrangling-and-tidying/modules/dscp-data-cleaning-with-pandas/projects/data-cleaning-us-census
+
+I started by working through the steps in the Codecademy "Cleaning US Census Data" project, but then I expanded beyond the project tasks and the order in which the tasks were listed, using it as opportuntiy to learn additional useful functions (that weren't taught by Codecademy) and practice my skills
